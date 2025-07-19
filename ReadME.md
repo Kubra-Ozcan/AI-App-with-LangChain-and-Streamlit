@@ -1,5 +1,7 @@
 # 🤖 AI Assistant App
 
+[Click to try the app](https://kubraozcan-ai-assistant-app.streamlit.app/)
+
 This project is an interactive AI assistant application developed using **LangChain** and **Streamlit**. It allows users to ask questions, get contextual responses, and explore roadmap suggestions—all powered by large language models.
 
 ---
@@ -39,7 +41,7 @@ Displayed when API key is not provided.
 ## 🛠️ Tech Stack
 
 - [LangChain](https://www.langchain.com/)
-- [Streamlit](https://streamlit.io/)
+- [Streamlit](https://ai-app-with-langchain.streamlit.app/)
 - Python 3.10+
 
 ---
